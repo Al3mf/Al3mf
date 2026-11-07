@@ -15,9 +15,9 @@ QA Engineer Manual and Automation
 I really like videogames, music and solve complex problems.  
 I love to learn new things
 
-🌱 &nbsp;I'm currently learning **Cloud Computing and Python certifications**  
-👯 &nbsp;I'm looking to collaborate on **Hackaton's**  
-💬 &nbsp;Ask me about **Automation, TypeScript**
+🌱 &nbsp;I'm currently learning **LLM and Machine Learning**  
+👯 &nbsp;I'm looking to collaborate on **Research Projects**  
+💬 &nbsp;Ask me about **Videogames, Automation and AI**
 
 ### 🛠️ Tech Stack
 
